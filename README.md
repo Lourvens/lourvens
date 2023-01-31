@@ -1,5 +1,5 @@
 # 💫About Me 
-Hi, I'm a frontend developer
+Hi, I'm a frontend developer  <br />
 👯 I’m looking to collaborate on open source projects <br />
 🤝 I’m looking for new opportunities and open for any feedback <br />
 🌱 I’m currently improving my skill on TypeScript and DSA <br />
