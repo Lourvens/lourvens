@@ -1,9 +1,9 @@
 # 💫About Me 
 Hi, I'm a frontend developer
-👯 I’m looking to collaborate on open source projects
-🤝 I’m looking for new opportunities and open for any feedback
-🌱 I’m currently improving my skill on TypeScript and DSA
-💬 Ask me about Frontend dev and tech trend
+👯 I’m looking to collaborate on open source projects <br />
+🤝 I’m looking for new opportunities and open for any feedback <br />
+🌱 I’m currently improving my skill on TypeScript and DSA <br />
+💬 Ask me about Frontend dev and tech trend <br />
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/lourvens#5995) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/LLuxamar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lourvens-l-49a7a01a8)
