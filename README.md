@@ -3,7 +3,7 @@
 # Luxamar Lourvens
 
 **Self-taught fullstack developer → applied GenAI engineer in the making.**
-I ship production web apps in TypeScript and agents in Python on top of LangChain & LangGraph.
+I ship production web apps in TypeScript and agents in Python on top of LangChain & LangGraph & crewai.
 
 [Portfolio](https://lourvens.vercel.app) · [Twitter](https://twitter.com/LLuxamar) · [Discord](https://discord.gg/lourvens#5995)
 
