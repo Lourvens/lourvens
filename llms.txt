@@ -1,0 +1,35 @@
+# Lourvens
+
+> Self-taught fullstack developer building applied AI systems, robust agentic systems, and GenAI products in Python. TypeScript production background. Active on GitHub since 2020.
+
+## Focus
+- Building AI systems & robust agentic systems: LangChain, LangGraph, CrewAI, MCP tool servers (deep study)
+- AgentOps: evaluation, observability, reliability, HITL gates, deployment
+- GenAI engineering: Python, FastAPI, RAG pipelines, vector databases
+- AI governance: safety, evals, monitoring
+
+## Reading (foundation)
+- Transformer internals, inference optimization, quantization
+
+## Next focus
+- Fine-tuning, RL, deeper GenAI techniques
+
+## Stack
+- Fullstack: TypeScript, JavaScript, React, Next.js, Node.js, Express, Laravel, MongoDB, Redis, PostgreSQL, Tailwind
+- AI: Python, FastAPI, LangChain, LangGraph, CrewAI, RAG + Vector DB, Docker, Git
+
+## Links
+- GitHub: https://github.com/Lourvens
+- Portfolio: https://lourvens.vercel.app
+- Twitter: https://twitter.com/LLuxamar
+
+## Top projects
+- multi-source-research-intelligence-agent — Python agentic RAG over papers, patents, news, datasets
+- exam-haiti-agent — Python agent for Haitian exam prep (⭐ 1)
+- sql-agent — Python agent for SQL workflows
+- lofi — TypeScript web app, most starred (⭐ 11)
+- HaitiCityPortal — Next.js civic engagement platform
+
+## See also
+- README.md — human-readable profile
+- AGENTS.md — structured fact sheet for agents
