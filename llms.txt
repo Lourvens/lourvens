@@ -32,6 +32,7 @@
 
 ## Credentials
 - Databricks Academy Accreditation — Generative AI Fundamentals (issued 2026-05-24)
+- Quickstart: LangChain Essentials — Python (LangChain Academy, issued 2025-12-25)
 
 ## See also
 - README.md — human-readable profile

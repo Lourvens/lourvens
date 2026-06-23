@@ -76,6 +76,7 @@ I started writing code in 2020 — landing pages in Astro, then full MERN apps, 
 ### Certifications
 
 - [**Databricks Academy Accreditation — Generative AI Fundamentals**](https://credentials.databricks.com/26e16a62-a566-45f7-9cac-c08975d2bc2b) — Issued May 2026 by Databricks Academy.
+- [**Quickstart: LangChain Essentials — Python**](https://academy.langchain.com/certificates/lnb3bbmuug) — Issued Dec 2025 by LangChain Academy.
 
 ### Connect
 

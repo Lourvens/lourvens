@@ -23,6 +23,15 @@
   - Verification: https://credentials.databricks.com/26e16a62-a566-45f7-9cac-c08975d2bc2b
   - **Important nuance**: this is an Academy Accreditation (foundational training badge, score 70%+), NOT a Databricks Certified exam (which are proctored, paid, and titled "Databricks Certified …"). Frame as "completed Generative AI fundamentals training at Databricks Academy", not "certified Generative AI Engineer".
 
+- **Quickstart: LangChain Essentials — Python**
+  - Issuer: LangChain Academy
+  - Issued: 2025-12-25
+  - No expiry
+  - Holder name as recorded: Lourvens LUXAMAR
+  - Certificate ID: lnb3bbmuug
+  - Verification: https://academy.langchain.com/certificates/lnb3bbmuug
+  - **Important nuance**: this is a free course-completion certificate from LangChain Academy, not a professional certification. Frame as "completed Quickstart: LangChain Essentials (Python) course at LangChain Academy", not "LangChain certified engineer".
+
 ## Current focus
 
 - **Building AI systems & robust agentic systems**: LangChain, LangGraph, CrewAI, agentic RAG, MCP tool servers — this is where deep study lives
