@@ -25,10 +25,10 @@
 
 ## Top projects
 - multi-source-research-intelligence-agent — Python agentic RAG over papers, patents, news, datasets
+- Nexlifycorp — LangGraph multi-agent enterprise AI (financial intelligence, compliance, research)
 - exam-haiti-agent — Python agent for Haitian exam prep (⭐ 1)
 - sql-agent — Python agent for SQL workflows
 - lofi — TypeScript web app, most starred (⭐ 11)
-- HaitiCityPortal — Next.js civic engagement platform
 
 ## See also
 - README.md — human-readable profile

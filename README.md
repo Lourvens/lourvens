@@ -48,12 +48,12 @@ I started writing code in 2020 — landing pages in Astro, then full MERN apps, 
 - [**multi-source-research-intelligence-agent**](https://github.com/Lourvens/multi-source-research-intelligence-agent) — Agentic RAG that searches academic papers, patents, news, and datasets to produce cited research reports with contradiction analysis.
 - [**exam-haiti-agent**](https://github.com/Lourvens/exam-haiti-agent) · ⭐ 1 — Python agent for Haitian exam preparation.
 - [**sql-agent**](https://github.com/Lourvens/sql-agent) — Python agent for SQL workflows.
+- [**Nexlifycorp**](https://github.com/Lourvens/Nexlifycorp) — LangGraph multi-agent enterprise AI for financial intelligence, compliance, and research. SEC filings + internal docs via RAG (Chroma/Weaviate/Pinecone) and a Neo4j knowledge graph.
 - [**arxiv-paper-curator**](https://github.com/Lourvens/arxiv-paper-curator) — RAG learning project over arXiv papers.
 
 **Fullstack (TypeScript / Next.js)**
 
 - [**lofi**](https://github.com/Lourvens/lofi) · ⭐ 11 — My most-starred repo. TypeScript web app.
-- [**HaitiCityPortal**](https://github.com/Lourvens/HaitiCityPortal) — Next.js civic platform: public services, event calendars, GIS, online payments, issue reporting.
 - [**haitianticket-client-app**](https://github.com/Lourvens/haitianticket-client-app) · [**haitianticket-organizer-app**](https://github.com/Lourvens/haitianticket-organizer-app) — Multi-app event ticketing system.
 - [**shortlinkify**](https://github.com/Lourvens/shortlinkify) — URL shortener with auth, expiration, and analytics.
 - [**mern-stack-blog**](https://github.com/Lourvens/mern-stack-blog) · ⭐ 1 — MERN + TypeScript blog.

@@ -70,15 +70,14 @@
 ### AI / Agents (Python)
 
 - `multi-source-research-intelligence-agent` — Agentic RAG platform that searches academic papers, patents, news, and datasets. Produces cited research reports with contradiction analysis.
+- `Nexlifycorp` — LangGraph multi-agent enterprise AI for financial intelligence, compliance, and research. Combines real SEC filings with internal documents via RAG (Chroma/Weaviate/Pinecone) and a Neo4j knowledge graph. Streamlit UI.
 - `exam-haiti-agent` (⭐ 1) — Python agent for Haitian exam preparation.
 - `sql-agent` — Python agent for SQL workflows.
 - `arxiv-paper-curator` — RAG learning project over arXiv.
-- `Nexlifycorp` — Recent Python project.
 
 ### Fullstack (TypeScript)
 
 - `lofi` (⭐ 11) — Most-starred repo. TypeScript web app.
-- `HaitiCityPortal` — Next.js civic platform: public services, events, GIS, payments, issue reporting.
 - `haitianticket-client-app`, `haitianticket-organizer-app` — Multi-app event ticketing.
 - `haitipay` — Payment app.
 - `shortlinkify` — URL shortener with auth and analytics.
