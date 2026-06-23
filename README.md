@@ -11,12 +11,12 @@ I ship production web apps in TypeScript and agents in Python on top of LangChai
 
 ### About
 
-I started writing code in 2020 — landing pages in Astro, then full MERN apps, then Next.js products for civic and fintech use cases. For the past year I've been focused on **applied GenAI**: building AI systems, robust agentic systems, and the operational layer (AgentOps + AI governance) that lets agents ship to real users. I learn by shipping, so most of what I know lives in public repos.
+I started writing code in 2020 — landing pages in Astro, then full MERN apps, then Next.js. For the past months I've been focused on **applied GenAI**: learn how to build AI systems, robust agentic systems, and the operational layer (AgentOps + AI governance) that lets agents ship to real users. I learn by shipping, so most of what I know lives in public repos.
 
 ### Right now
 
 - Building **robust agentic systems** with LangChain, LangGraph, CrewAI — MCP tool servers, HITL gates, multi-agent orchestration. This is where my deep study lives.
-- Reading about **transformer internals**, **inference optimization**, **quantization**, and **AI governance** — building the foundation for what's next.
+- Reading about ai topic everyday like **llm ops / agent ops**, **observability and evals** , **finetuning/RL**, **inference**, **quantization**, and **AI governance** — building the foundation for what's next.
 - **Next focus:** fine-tuning, RL, and deeper GenAI techniques.
 - Writing Python daily after years of TypeScript.
 
@@ -45,11 +45,10 @@ I started writing code in 2020 — landing pages in Astro, then full MERN apps, 
 
 **AI / Agents (Python)**
 
-- [**multi-source-research-intelligence-agent**](https://github.com/Lourvens/multi-source-research-intelligence-agent) — Agentic RAG that searches academic papers, patents, news, and datasets to produce cited research reports with contradiction analysis.
+- [**multi-source-research-intelligence-agent**](https://github.com/Lourvens/multi-source-research-intelligence-agent) — Agentic RAG that searches academic papers, patents, news, and datasets to produce cited research reports with contradiction analysis. `partially worked`
 - [**exam-haiti-agent**](https://github.com/Lourvens/exam-haiti-agent) · ⭐ 1 — Python agent for Haitian exam preparation.
-- [**sql-agent**](https://github.com/Lourvens/sql-agent) — Python agent for SQL workflows.
-- [**Nexlifycorp**](https://github.com/Lourvens/Nexlifycorp) — LangGraph multi-agent enterprise AI for financial intelligence, compliance, and research. SEC filings + internal docs via RAG (Chroma/Weaviate/Pinecone) and a Neo4j knowledge graph.
-- [**arxiv-paper-curator**](https://github.com/Lourvens/arxiv-paper-curator) — RAG learning project over arXiv papers.
+- [**sql-agent**](https://github.com/Lourvens/sql-agent) — Python agent for SQL workflows. `unfinished`
+- [**Nexlifycorp**](https://github.com/Lourvens/Nexlifycorp) — LangGraph multi-agent enterprise AI for financial intelligence, compliance, and research. SEC filings + internal docs via RAG (Chroma/Weaviate/Pinecone) and a Neo4j knowledge graph. 
 
 **Fullstack (TypeScript / Next.js)**
 
@@ -60,7 +59,7 @@ I started writing code in 2020 — landing pages in Astro, then full MERN apps, 
 
 ### GenAI focus areas
 
-**Now:** `building AI systems` · `robust agentic systems` · `AgentOps` · `GenAI` · `AI governance` · `LangChain` · `LangGraph` · `CrewAI` · `MCP` · `RAG` · `vector databases` · `evaluation` · `observability`
+**Now:** `building AI systems` · `agentic systems` · `AgentOps` · `GenAI` · `AI governance` · `LangChain` · `LangGraph` · `CrewAI` · `MCP` · `RAG` · `vector databases` · `evaluation` · `observability`
 **Reading:** `transformers` · `inference optimization` · `quantization`
 **Next:** `fine-tuning` · `RL` · deeper GenAI techniques
 
