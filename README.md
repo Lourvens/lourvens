@@ -3,7 +3,7 @@
 # Luxamar Lourvens
 
 **Self-taught fullstack developer → applied GenAI engineer in the making.**
-I ship production web apps in TypeScript and agents in Python on top of LangChain & LangGraph & crewai.
+I ship production web apps in TypeScript and agents in Python on top of LangChain & LangGraph.
 
 [Portfolio](https://lourvens.vercel.app) · [Twitter](https://twitter.com/LLuxamar) · [Discord](https://discord.gg/lourvens#5995)
 
@@ -54,7 +54,6 @@ I started writing code in 2020 — landing pages in Astro, then full MERN apps, 
 **Fullstack (TypeScript / Next.js)**
 
 - [**lofi**](https://github.com/Lourvens/lofi) · ⭐ 11 — My most-starred repo. TypeScript web app.
-- [**haitianticket-client-app**](https://github.com/Lourvens/haitianticket-client-app) · [**haitianticket-organizer-app**](https://github.com/Lourvens/haitianticket-organizer-app) — Multi-app event ticketing system.
 - [**shortlinkify**](https://github.com/Lourvens/shortlinkify) — URL shortener with auth, expiration, and analytics.
 - [**mern-stack-blog**](https://github.com/Lourvens/mern-stack-blog) · ⭐ 1 — MERN + TypeScript blog.
 - [**streameo**](https://github.com/Lourvens/streameo) · ⭐ 1 — Video streaming app.

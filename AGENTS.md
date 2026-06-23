@@ -78,7 +78,6 @@
 ### Fullstack (TypeScript)
 
 - `lofi` (⭐ 11) — Most-starred repo. TypeScript web app.
-- `haitianticket-client-app`, `haitianticket-organizer-app` — Multi-app event ticketing.
 - `haitipay` — Payment app.
 - `shortlinkify` — URL shortener with auth and analytics.
 - `mern-stack-blog` (⭐ 1) — MERN + TypeScript blog.
