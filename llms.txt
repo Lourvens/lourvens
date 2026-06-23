@@ -30,6 +30,9 @@
 - sql-agent — Python agent for SQL workflows
 - lofi — TypeScript web app, most starred (⭐ 11)
 
+## Credentials
+- Databricks Academy Accreditation — Generative AI Fundamentals (issued 2026-05-24)
+
 ## See also
 - README.md — human-readable profile
 - AGENTS.md — structured fact sheet for agents

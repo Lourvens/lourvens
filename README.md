@@ -73,6 +73,10 @@ I started writing code in 2020 — landing pages in Astro, then full MERN apps, 
   <img src="https://img.shields.io/badge/since-2020-blue?style=flat" alt="since" />
 </p>
 
+### Certifications
+
+- [**Databricks Academy Accreditation — Generative AI Fundamentals**](https://credentials.databricks.com/26e16a62-a566-45f7-9cac-c08975d2bc2b) — Issued May 2026 by Databricks Academy.
+
 ### Connect
 
 - Portfolio — [lourvens.vercel.app](https://lourvens.vercel.app)

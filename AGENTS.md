@@ -13,6 +13,16 @@
 - Twitter: https://twitter.com/LLuxamar
 - Discord: `lourvens#5995`
 
+## Certifications
+
+- **Databricks Academy Accreditation — Generative AI Fundamentals**
+  - Issuer: Databricks Academy
+  - Issued: 2026-05-24
+  - Does not expire
+  - Holder name as recorded: Lourvens Luxamar
+  - Verification: https://credentials.databricks.com/26e16a62-a566-45f7-9cac-c08975d2bc2b
+  - **Important nuance**: this is an Academy Accreditation (foundational training badge, score 70%+), NOT a Databricks Certified exam (which are proctored, paid, and titled "Databricks Certified …"). Frame as "completed Generative AI fundamentals training at Databricks Academy", not "certified Generative AI Engineer".
+
 ## Current focus
 
 - **Building AI systems & robust agentic systems**: LangChain, LangGraph, CrewAI, agentic RAG, MCP tool servers — this is where deep study lives
